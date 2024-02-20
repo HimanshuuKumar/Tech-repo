@@ -1,2 +1,3 @@
-# Tech-repo
-This is my first git repository
+# Tech-Repo
+This is my first Git Repository
+Author:'Himanshu Kumar'
